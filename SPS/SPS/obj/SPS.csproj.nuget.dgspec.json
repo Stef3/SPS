@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\МГ\\11клас\\informatika 2020\\SPS\\SPS\\SPS.csproj": {}
+    "C:\\Users\\stefi\\OneDrive\\Documents\\GitHub\\SPS\\SPS\\SPS\\SPS.csproj": {}
   },
   "projects": {
-    "D:\\МГ\\11клас\\informatika 2020\\SPS\\SPS\\SPS.csproj": {
+    "C:\\Users\\stefi\\OneDrive\\Documents\\GitHub\\SPS\\SPS\\SPS\\SPS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\МГ\\11клас\\informatika 2020\\SPS\\SPS\\SPS.csproj",
+        "projectUniqueName": "C:\\Users\\stefi\\OneDrive\\Documents\\GitHub\\SPS\\SPS\\SPS\\SPS.csproj",
         "projectName": "SPS",
-        "projectPath": "D:\\МГ\\11клас\\informatika 2020\\SPS\\SPS\\SPS.csproj",
+        "projectPath": "C:\\Users\\stefi\\OneDrive\\Documents\\GitHub\\SPS\\SPS\\SPS\\SPS.csproj",
         "packagesPath": "C:\\Users\\stefi\\.nuget\\packages\\",
-        "outputPath": "D:\\МГ\\11клас\\informatika 2020\\SPS\\SPS\\obj\\",
+        "outputPath": "C:\\Users\\stefi\\OneDrive\\Documents\\GitHub\\SPS\\SPS\\SPS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
